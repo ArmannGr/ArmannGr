@@ -1,29 +1,28 @@
 # About Me
 
-Hello! 👋 I'm Armann Grewal, a passionate DevOps engineer with a strong background in Angular and Spring Boot for full-stack software development. I'm also well-versed in SQL databases like PostgreSQL and have extensive experience working with Kubernetes and GitOps tools such as FluxCD. I'm continually honing my skills in cloud topics, particularly Terraform, and I actively contribute to the AWS ecosystem.
+Hello! 👋 I'm Armann Grewal, an AWS Cloud-focused IT professional with a background in DevOps and full-stack development. My expertise now centers around AWS solution architecting, where I consult internal departments on cloud-native solutions. I'm also AWS Certified at the Cloud Practitioner level and passionate about leveraging cloud technologies to drive innovative solutions.
 
 ## Professional Background
 
-- **Full Stack Developer**: I have extensive experience in building robust and scalable web applications using Angular and Spring Boot. My proficiency in both frontend and backend technologies enables me to create end-to-end solutions with a seamless user experience.
+- **AWS Cloud**: I specialize in AWS, focusing on cloud solution architecture to support and consult teams within organizations. I stay updated on AWS best practices and actively contribute to cloud projects that emphasize scalability, security, and cost optimization. I prioritize Infrastructure as Code (IaC) principles to create efficient, automated deployments.
 
-- **Database Expertise**: I'm skilled in working with SQL databases, especially PostgreSQL. I have designed, optimized, and maintained database systems to ensure data integrity and application performance.
+- **Full Stack Developer**: With experience in Angular and Spring Boot, I’ve built scalable, robust web applications. My skills in both frontend and backend enable me to create seamless user experiences and reliable systems.
 
-- **Kubernetes**: I'm well-versed in container orchestration using Kubernetes and FluxCD for GitOps workflows. I leverage these technologies to automate application deployment and manage infrastructure as code.
+## Academic Background
 
-- **Cloud Enthusiast**: I'm committed to expanding my knowledge of cloud technologies, with a particular focus on Terraform. I believe in the power of Infrastructure as Code (IaC) to create scalable and maintainable cloud environments.
+- **Bachelor’s in Business Informatics**: My undergraduate studies focused on the intersection of business and IT, providing a strong foundation in both areas.
 
-- **AWS Experience**: I actively work on AWS, leveraging its services to build cloud-native applications and infrastructure. I'm always eager to explore new AWS offerings and best practices.
+- **Master’s in Computer Science - Intelligent Systems**: Currently pursuing a Master’s degree focused on intelligent systems, deepening my knowledge of AI, machine learning, and advanced Software Engineering.
 
-## Academic Achievements
+## Current Role
 
-- **Bachelor's Thesis**: I completed my Bachelor's Thesis on the topic of "Evaluation of Security Aspects in DevOps with a Prototypical Implementation." In this thesis, I explored the critical intersection of development and security within the context of DevOps practices. I developed a prototype to assess and enhance security aspects in DevOps.
+I'm working part-time as an IT Professional at Flender GmbH while completing my Master's. In this role, I focus on AWS solution architecture, providing internal consultancy and cloud support.
 
 ## Connect with Me
 
-I'm always open to networking, collaboration, and discussing exciting tech topics. Feel free to reach out to me through the following channels:
+I'm always open to connecting, collaborating, and sharing insights about AWS, DevOps, and cloud technologies. Reach out through:
 
 - [LinkedIn](https://www.linkedin.com/in/armann-grewal-2910a2212/)
 - [GitHub](https://github.com/ArmannGr)
 
-Let's connect, learn, and build great things together! 🚀
-
+Let’s innovate together! 🚀
